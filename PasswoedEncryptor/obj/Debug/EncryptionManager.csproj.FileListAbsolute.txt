@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\EncryptionManager.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswoedEncryptor.StringEncrypt.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswoedEncryptor.StringDecryptor.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswoedEncryptor.TextFileEncryptor.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswoedEncryptor.TextFileDecryptor.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswoedEncryptor.HomePage.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\EncryptionManager.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\EncryptionManager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\bin\Debug\PasswordEncryptor.exe.config
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\bin\Debug\PasswordEncryptor.exe
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\bin\Debug\PasswordEncryptor.pdb
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswordEncryptor.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswordEncryptor.exe
+C:\Users\DELL\OneDrive\Codes Backup\Codes\C#\Projects\PasswoedEncryptor\PasswoedEncryptor\obj\Debug\PasswordEncryptor.pdb
